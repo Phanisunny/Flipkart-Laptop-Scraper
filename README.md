@@ -20,9 +20,11 @@ This is a simple Python script that scrapes laptop data from Flipkart based on a
 ### Note:
     Search query should contain 'Laptop' or 'Laptops' as keyword and this scraper works best with 'laptop' keyword
 
+### Example output file
+flipkart_laptops_20250727_140432.csv
+
 ### 🏃‍♂️ How to Run
 ```bash
 python flipkart_scraper.py
 
-### Example output file
-flipkart_laptops_20250727_140432
+
