@@ -23,3 +23,6 @@ This is a simple Python script that scrapes laptop data from Flipkart based on a
 ### 🏃‍♂️ How to Run
 ```bash
 python flipkart_scraper.py
+
+### Example output file
+flipkart_laptops_20250727_140432
