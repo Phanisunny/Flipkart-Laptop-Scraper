@@ -42,3 +42,5 @@ timestamp=datetime.now().strftime('%Y%m%d_%H%M%S')
 filename=f'flipkart_laptops_{timestamp}.csv'
 result=flipkart(search,pages)
 result.to_csv(filename,index=False)
+print(filename)
+print(result)
